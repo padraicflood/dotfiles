@@ -1,0 +1,14 @@
+[user]
+	email = podge.pi@gmail.com
+	name = Padraic Flood
+[color]
+	ui = true
+	status = auto
+	branch = auto
+[alias]
+  st = status
+  ci = commit
+  br = branch
+  co = checkout
+  df = diff
+  lg = log -p
