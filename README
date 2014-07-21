@@ -4,6 +4,6 @@ Installation:
 
 Create Symlinks:
 
-    for f in gitconfig; do ln -s ~/.dotfiles/$f ~/.$f; done
+    for f in gitconfig bashrc bash_profile; do ln -s ~/.dotfiles/$f ~/.$f; done
 
 
